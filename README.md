@@ -1,5 +1,6 @@
 # ListAndReply
-# by So Young Park
+# Create by So Young Park
 
-댓글 카운트 세기, 비지니스로직 없음
-
+It's Android Test for study.
+It use Intend for swape a view.
+And Automatic counting Reply.
